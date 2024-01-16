@@ -175,7 +175,7 @@ body{
 
 /* Predict Button */
 .myButton {
-	background-color:#0c0c0c;
+	background-color:rgb(26,26,126);
 	border-radius: 5px;
 	display:inline-block;
 	cursor:pointer;
